@@ -2,6 +2,46 @@
 
 Prompts for ChatGPT-4o to create amazing visuals!
 
+## Architectural model style landmarks with GPT4o 
+
+![paris](imgs/paris.png)
+
+from:
+> https://x.com/miilesus/status/1923385869836132829
+
+You can edit the colors, style and object as you wish via this prompt.
+
+~~~
+create architectural model:
+{
+"style": "minimalist wooden architectural scale model",
+"object": "Eiffel Tower",
+"material": "light beige wood or MDF",
+"base": {
+"type": "square wooden platform",
+"ground": "fine textured cork surface",
+"decorations": ["miniature green trees", "low dry grass"]
+},
+"lighting": {
+"type": "soft ambient",
+"intensity": "medium"
+},
+"background": {
+"type": "neutral plain backdrop",
+"color": "#E8E3D8"
+},
+"camera": {
+"angle": "eye-level",
+"focus": "entire model centered"
+},
+"render": {
+"quality": "high",
+"depth_of_field": "shallow",
+"shadows": "soft"
+}
+}
+~~~
+
 ## cute  keychain
 
 ![cute  keychain](imgs/cute_keychain.png)
