@@ -2,6 +2,8 @@
 
 Prompts for ChatGPT-4o to create amazing visuals!
 
+> **2026-11 note**: image generation in ChatGPT and the API now runs on newer models — as of Nov 4, 2026, **GPT-Image-2.6 Sunburst** (detail and precise edits) and **GPT-Image-2.6 Flare** (speed), with SVG and animated GIF output ([API changelog](https://developers.openai.com/api/docs/changelog)). The style prompts below still work as starting points; for current wording patterns (exact text in images, transparent backgrounds, consistent characters) see OpenAI's [image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting).
+
 ## Architectural model style landmarks with GPT4o 
 
 ![paris](imgs/paris.png)
